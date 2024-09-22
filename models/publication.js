@@ -1,4 +1,3 @@
-const { text } = require("express");
 const { Schema, model } = require("mongoose");
 
 const PublicationSchema = Schema({
